@@ -22,7 +22,9 @@ Los trabajos se encuentran organizados por unidades para facilitar su consulta y
 Introducción a los métodos numéricos y actividades desarrolladas en Python.
 
 ### Unidad 2
-Métodos de solución de ecuaciones no lineales mediante Newton-Raphson.
+Métodos de solución de ecuaciones no lineales:
+-Método de Newton-Raphson.
+-Método de Bisección
 
 ### Unidad 3
 Solución de sistemas de ecuaciones utilizando Jacobi y Gauss-Seidel.

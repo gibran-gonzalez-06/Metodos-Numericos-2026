@@ -22,6 +22,16 @@ Aplicar métodos de interpolación para estimar valores desconocidos mediante el
 
 Programa que permite calcular el valor interpolado de una función utilizando el método de Lagrange. El usuario ingresa los puntos conocidos y el valor de x que desea interpolar.
 
+## Temas trabajados
+
+- Interpolación de Lagrange.
+
+- Diferencias divididas de Newton.
+
+- Mínimos cuadrados.
+
+- Correlación.
+
 ## Estructura de carpetas
 
 src/
